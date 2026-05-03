@@ -31,10 +31,14 @@ Data cleaning involves removing duplicates, handling missing values, and standar
 
 # Project Insights
 •	Region A contributes 40% of total sales but only 25% of profit, suggesting higher costs or discounts.
+
 •	Product Category X has the highest profit margin (35%), making it a strategic focus area.
+
 •	Year-over-Year growth is declining in Region B, signaling a need for targeted marketing.
+
 •	Top 10 customers account for 60% of revenue, highlighting dependency risk.
+
 •	Discounts reduce profit margins by 10%, suggesting optimization opportunities.
 
-# Final Conclusion
+## Final Conclusion:
 The dashboard provides a clear view of sales performance and profitability, enabling data-driven decision-making. It identifies growth opportunities in high-margin categories and underperforming regions, while highlighting the importance of managing customer concentration and discount strategies. With well-defined KPIs and clear visuals, the project demonstrates the ability to convert raw data into actionable insights, making it a valuable addition to a Data Analyst or Business Analyst portfolio.
